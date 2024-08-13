@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, C.
 - 📫 How to reach me
     - Email: 250218lxl@gmail.com
-- 😄 Pronouns: Chinese, English
 
 <!---
 ystemsrx/ystemsrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
