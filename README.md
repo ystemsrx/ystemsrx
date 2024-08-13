@@ -8,6 +8,8 @@
 ### Technologies I Use 💻
 ![Python](Badge/PythonBadge.svg) ![C](Badge/CBadge.svg) ![R](Badge/RBadge.svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ystemsrx)
+
 ### My Interests 🌟
 - 🏓 Table Tennis
 - 🎮 Video Gaming
@@ -18,5 +20,3 @@
 
 ### A Joke 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api?username=ystemsrx)
-
-
