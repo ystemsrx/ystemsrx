@@ -13,6 +13,6 @@
 - 🎮 Video Gaming
 - 🎸 Music
 
-### Stats ⚙️
-![ystemsrx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ystemsrx&show_icons=true)
+### Quotes ⚙️
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
