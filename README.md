@@ -6,7 +6,7 @@
 - 📫 How to reach me: **[email](mailto:250218lxl@gmail.com)**
 
 ### Technologies I Use 💻
-![Python](link-to-python-badge) ![C](link-to-c-badge) ![R](link-to-r-badge)
+![Python](Badge/PythonBadge.svg) ![C](Badge/CBadge.svg) ![R](RBadge.svg)
 
 ### My Interests 🌟
 - 🏓 Table Tennis
