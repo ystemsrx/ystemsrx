@@ -16,3 +16,7 @@
 ### Quotes ⚙️
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+### A Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?username=ystemsrx)
+
+
