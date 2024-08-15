@@ -18,7 +18,7 @@
 ![CSS](Files/CSS.svg)
 ![HTML](Files/HTML.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ystemsrx)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenAI)
 
 - **Tools**
 
