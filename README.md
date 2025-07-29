@@ -22,11 +22,7 @@
 
 - **Tools**
 
-![VSCode](Files/VSCode.svg)
-![Conda](Files/Conda.svg)
-![VS](Files/VS.svg)
-![RS](Files/RS.svg)
-![Docker](Files/Docker.svg)
+<img src="Files/VSCode.svg" width="64" height="64"> <img src="Files/Conda.svg" width="64" height="64"> <img src="Files/VS.svg" width="64" height="64"> <img src="Files/RS.svg" width="64" height="64"> <img src="Files/Docker.svg" width="64" height="64">
 
 ### My Interests 🌟
 - 🏓 Table Tennis
