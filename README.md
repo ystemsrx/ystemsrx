@@ -26,6 +26,7 @@
 ![Conda](Files/Conda.svg)
 ![VS](Files/VS.svg)
 ![RS](Files/RS.svg)
+![Docker](Files/Docker.svg)
 
 ### My Interests 🌟
 - 🏓 Table Tennis
