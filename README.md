@@ -20,7 +20,17 @@
 ![CSS](Files/CSS.svg)
 ![HTML](Files/HTML.svg)
 
-![Top Langs](https://github-readme-stats-six-liard-92.vercel.app/api/top-langs/?username=ystemsrx&layout=compact&langs_count=10)
+<p align="center">
+  <img
+    src="https://github-readme-stats-six-liard-92.vercel.app/api/top-langs/?username=ystemsrx&layout=compact&langs_count=10"
+    height="165"
+  />
+  <img width="28" />
+  <img
+    src="https://github-readme-stats-six-liard-92.vercel.app/api?username=ystemsrx&show_icons=true"
+    height="165"
+  />
+</p>
 
 - **Tools**
 
