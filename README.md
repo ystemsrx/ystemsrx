@@ -13,9 +13,9 @@
 ![PythonBadge](Files/PythonBadge.svg)
 ![CBadge](Files/CBadge.svg)
 ![RBadge](Files/RBadge.svg)
-![Batch](Files/Batch.svg)
-![WXSS](Files/WXSS.svg)
-![WXML](Files/WXML.svg)
+<img src="Files/Rust.svg" width="64" height="64" alt="Rust">
+<img src="Files/TypeScript.svg" width="64" height="64" alt="TypeScript">
+<img src="Files/Cpp.svg" width="64" height="64" alt="C++">
 ![JS](Files/JS.svg)
 ![CSS](Files/CSS.svg)
 ![HTML](Files/HTML.svg)
@@ -42,6 +42,6 @@
 - 🎮 Video Gaming
 - 🎸 Music
 
-### A Joke 😄
+### Visitors 👀
 
-![Jokes Card](https://readme-jokes.vercel.app/api?username=ystemsrx)
+![Visitor Counter](https://count.getloli.com/@ystemsrx-profile?theme=minecraft&scale=0.5)
